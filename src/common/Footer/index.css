@@ -1,0 +1,24 @@
+.footer-wrapper {
+    padding: 20px;
+    background: #e4ded4;
+    width: 100%;
+    margin-top: 50px;
+}
+.contactus-text {
+    font-size: 22px;
+}
+.address-text {
+    font-size: 18px;
+}
+.mr-5 {
+    margin-right: 5px;
+}
+
+@media screen and (max-width: 900px) {
+    .contactus-text {
+        font-size: 16px;
+    }
+    .address-text {
+        font-size: 14px;
+    }
+}

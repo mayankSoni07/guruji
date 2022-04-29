@@ -1,0 +1,25 @@
+.img-radha-madhav {
+    margin-top: 155px;
+    margin-bottom: 50px;
+}
+.img-both-guruji {
+    margin-top: 50px;
+}
+.img-wrapper {
+    padding: 50px 200px;
+}
+.img {
+    height: 570px;
+}
+
+@media screen and (max-width: 900px) {
+    .radhe-krishna-text {
+        font-size: 20px;
+    }
+    .img-wrapper {
+        padding: 20px;
+    }
+    .img {
+        height: auto;
+    }
+}
