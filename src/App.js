@@ -1,5 +1,5 @@
 import React, { useEffect } from "react";
-import * as UTILS from "./utils";
+import * as UTILS from "./utils/utils";
 import LOCALE from './locale';
 import WebMain from "./web/WebMain";
 // import MsiteMain from "./msite/MsiteMain";

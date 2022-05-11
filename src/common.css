@@ -42,14 +42,30 @@ code {
 .bold {
     font-weight: bold;
 }
+.radhe-krishna-text-header {
+  text-decoration: underline;
+  font-size: 30px;
+  color: #fff;
+  text-shadow: 2px 2px grey;
+}
 .radhe-krishna-text {
   font-size: 26px;
   color: #fff;
   text-shadow: 2px 2px grey;
 }
+
 .mb-10 {
   margin-bottom: 10px;
 }
 .mb-20 {
   margin-bottom: 20px;
+}
+.mt-5 {
+  margin-top: 5px !important;
+}
+.mt-10 {
+  margin-top: 10px;
+}
+.mt-20 {
+  margin-top: 20px;
 }

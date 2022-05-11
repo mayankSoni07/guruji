@@ -2,6 +2,7 @@ const LOCALE = {
     hi: {
         "AKHIL_BHARATIYA_NIMBARKACHARYA_PEETH": "अखिल भारतीय निम्बार्काचार्य पीठ",
         "SALEMABAD_RAJASTHAN": "श्री निम्बार्क तीर्थ, राजस्थान",
+        "YUGAL_NAME_MAHAMANTRA": "युगल नाम महामंत्र",
         "HEAD_1": "पुष्कर क्षेत्र स्थित श्रीनिम्बार्क तीर्थ की महिमा शास्त्रों द्वारा प्रतिपादित है",
         "DESC_1": "पुराणाें में उल्लेख है कि सूर्य भगवान की प्रखर किरणों से जिस सरोवर का उद्भव हुआ, वही सरोवर श्री निम्बार्क सरोवर के नाम से प्रसिद्ध हुआ। जिस परिक्षेत्र में यह सरोवर स्थित है, उसका नाम श्रीनिम्बार्क तीर्थ प्रसिद्ध हुआ। पुष्कर क्षेत्र स्थित इस तीर्थ की महिमा शास्त्रों द्वारा प्रतिपादित है। वर्तमान में जहां आचार्य पीठ स्थित है, वहां करीब 500 साल पहले घना जंगल था और आश्रम स्थित था जिसमें संत महात्मा रहते थे। बताया जाता है कि बादशाह शेरशाह सूरी का कोई पुत्र नहीं था और बादशाह अजमेर में एक सूफी संत की मजार पर आये थे। उन्हें किसी ने बताया कि अजमेर से दस काेस दूरी पर निम्बार्क तीर्थ में श्री परशुराम देवाचार्य जी महाराज के दर्शन करने से मनाेकामना पूरी हाे सकती है।",
         "HEAD_2": "ऐसे सलेमाबाद पड़ा नाम",
@@ -30,6 +31,7 @@ const LOCALE = {
     en: {
         "AKHIL_BHARATIYA_NIMBARKACHARYA_PEETH": "AKHIL BHARATIYA NIMBARKACHARYA PEETH",
         "SALEMABAD_RAJASTHAN": "Shree Nimbarka Teerth, Rajasthan",
+        "YUGAL_NAME_MAHAMANTRA": "Yugal Name Mahamantra",
         "HEAD_1": "The glory of Srinimbark shrine located in Pushkar region is propounded by the scriptures",
         "DESC_1": "It is mentioned in the Puranas that the lake which originated from the intense rays of the Sun God, the same lake became famous by the name of Shri Nimbark Sarovar. The name of the area in which this lake is situated became famous as Srinimbarka Teerth. The glory of this pilgrimage located in Pushkar region is propounded by the scriptures. At present, where Acharya Peeth is situated, there was a dense forest about 500 years ago and the ashram was situated in which the saint Mahatma lived. It is said that the emperor Sher Shah Suri had no son and the emperor had come to the tomb of a Sufi saint in Ajmer. Somebody told him that by having darshan of Shri Parshuram Devacharya Ji Maharaj at Nimbark Tirth, ten kilometers away from Ajmer, his wish can be fulfilled.",
         "HEAD_2": "Such is the name of Salemabad",

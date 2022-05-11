@@ -1,5 +1,5 @@
 .header-wrapper {
-    padding: 20px;
+    padding: 5px 20px;
     background: #e4ded4;
     width: 100%;
     position: fixed;
@@ -17,6 +17,16 @@
 .symbol-img {
     width: 100px;
     cursor: pointer;
+}
+.header-link {
+    cursor: pointer;
+    font-weight: bold;
+    color: #0d6efd;
+    text-decoration: auto;
+}
+.header-link:hover {
+    color: #FF9948;
+    text-shadow: 0.5px 0.5px gray;
 }
 @media screen and (max-width: 900px) {
     .title {

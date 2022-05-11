@@ -14,11 +14,12 @@ import GURUJI_2 from '../images/Guruji2.jpeg';
 
 export default function WebMain(props) {
   const { dataLocale, isMobile } = props;
-  const { RADHE_KRISHNA_MANTRA_LINE_1, RADHE_KRISHNA_MANTRA_LINE_2, RADHE_KRISHNA_MANTRA_LINE_3, RADHE_KRISHNA_MANTRA_LINE_4, SHRI_JI_MAHARAJ } = dataLocale || {};
+  const { YUGAL_NAME_MAHAMANTRA, RADHE_KRISHNA_MANTRA_LINE_1, RADHE_KRISHNA_MANTRA_LINE_2, RADHE_KRISHNA_MANTRA_LINE_3, RADHE_KRISHNA_MANTRA_LINE_4, SHRI_JI_MAHARAJ } = dataLocale || {};
 
   return (
     <div className="main">
       <img className="width-max shadow img-radha-madhav" src={RADHA_MADHAV_JI} />
+      <div className="bold text-center radhe-krishna-text-header">{YUGAL_NAME_MAHAMANTRA}</div>
       {isMobile ? <>
         <div className="bold text-center radhe-krishna-text">{RADHE_KRISHNA_MANTRA_LINE_1}</div>
         <div className="bold text-center radhe-krishna-text">{RADHE_KRISHNA_MANTRA_LINE_2}</div>
